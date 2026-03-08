@@ -1,23 +1,51 @@
-![MasterHead](https://www.notion.so/image/https%3A%2F%2Fi.pinimg.com%2Foriginals%2F02%2F01%2F1e%2F02011ec8554277b8c70bf22fb192123c.gif?table=block&id=e5c6c580-19e7-48fd-8a47-eac9eb4c899a&spaceId=a085380f-e1e4-4f25-97a9-4f28f7cacee2&userId=fe75dd06-4eeb-4aec-8132-b18c38900422&cache=v2)
+# Jhon Tajumbina
 
-<h1 align="center">Hi 👋, I'm Jhon Tajumbina</h1>  
-<h3 align="center">A passionate frontend developer from Colombia</h3>  
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jhontabo&label=Profile%20views&color=0e75b6&style=flat" alt="jhontabo" /> </p>  
-  
-- 🌱 I’m currently learning **React and Next.JS**  
-  
-- 👨‍💻 All of my projects are available at [jhontaboDev.com](jhontaboDev.com)  
-  
-- 💬 Ask me about **React,JavaScrip and php**  
-  
-- 📫 How to reach me **<jhonse.tajumbina@gmail.com>**  
-  
-<h3 align="left">Languages and Tools:</h3>  
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>  
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhontabo&show_icons=true&locale=en&layout=compact" alt="jhontabo" /></p>  
+Frontend Developer in training (Systems Engineering student, Colombia) focused on building fast, clean, and user-centered web applications with React and Next.js, while growing backend skills with Node.js, Express, PHP, and MySQL.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhontabo&show_icons=true&locale=en" alt="jhontabo" /></p>  
+[![GitHub](https://img.shields.io/badge/GitHub-jhontabo-181717?logo=github&logoColor=white)](https://github.com/jhontabo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jhontabodev.com-0A66C2)](https://jhontabodev.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:jhonse.tajumbina@gmail.com)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhontabo&" alt="jhontabo" /></p>
+## About Me
+
+- Systems Engineering student with a frontend-first mindset.
+- I build responsive interfaces with strong UX fundamentals and clean component architecture.
+- I am actively improving backend foundations to deliver reliable full-stack applications.
+- I enjoy Linux-based workflows, modern developer tooling, and readable code.
+
+## Tech Stack
+
+| Area | Technologies |
+| --- | --- |
+| Frontend | React, Next.js, JavaScript, HTML, CSS |
+| Backend | Node.js, Express, PHP |
+| Database | MySQL |
+| Tools | Git, Linux, VS Code, npm |
+
+## Featured Projects
+
+- **[Project Name 1](https://github.com/jhontabo/project-1)**  
+  Web app built with React/Next.js focused on solving `<specific problem>`.  
+  **Highlights:** `<feature 1>`, `<feature 2>`, `<feature 3>`.
+
+- **[Project Name 2](https://github.com/jhontabo/project-2)**  
+  Full-stack project using Node.js/Express + MySQL with a production-style structure.  
+  **Highlights:** authentication, API design, and data modeling.
+
+- **[Project Name 3](https://github.com/jhontabo/project-3)**  
+  Practical project that demonstrates engineering discipline and documentation quality.  
+  **Highlights:** modular architecture, clear README, maintainable code.
+
+## Currently Learning
+
+- Advanced React patterns and reusable UI architecture
+- Next.js performance optimization and application structure
+- REST API design, validation, and error handling in Express
+- SQL schema design and query optimization in MySQL
+
+## Contact / Links
+
+- Portfolio: [jhontabodev.com](https://jhontabodev.com)
+- GitHub: [github.com/jhontabo](https://github.com/jhontabo)
+- Email: [jhonse.tajumbina@gmail.com](mailto:jhonse.tajumbina@gmail.com)
+- LinkedIn: [linkedin.com/in/your-linkedin-id](https://linkedin.com/in/your-linkedin-id)
