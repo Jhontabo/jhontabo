@@ -34,49 +34,6 @@ Además del desarrollo de software, combino la ingeniería con el marketing digi
 
 ---
 
-## 💼 Trabajos Seleccionados
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔬 <a href="https://github.com/Jhontabo/InventoryManager">InventoryManager</a></h3>
-      <p align="center">
-        <a href="https://github.com/Jhontabo/InventoryManager"><b>📂 Repositorio en GitHub</b></a>
-      </p>
-      <p>Sistema integral de gestión de inventarios diseñado para los laboratorios de la <b>Universidad Mariana</b>. Proporciona control eficiente de equipos, recursos, reservas y préstamos con control de acceso basado en roles (RBAC), autenticación con Google institucional y reportes detallados. <i>Proyecto de grado que representó a la universidad a nivel departamental y nacional en semilleros de investigación.</i></p>
-      <p><b>Tecnologías:</b> <code>Laravel</code> <code>Filament</code> <code>PHP</code> <code>MySQL</code> <code>Google Auth</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏥 <a href="https://github.com/Jhontabo/Registro-UCI">Registro UCI</a></h3>
-      <p align="center">
-        <a href="https://github.com/Jhontabo/Registro-UCI"><b>📂 Repositorio en GitHub</b></a>
-      </p>
-      <p>Aplicación móvil en Flutter desarrollada para la Unidad de Cuidados Intensivos (U.C.I.) del <b>Hospital Departamental Universitario de Nariño</b>, enfocada principalmente en la digitalización de la sábana de enfermería UCI. Permite el registro ágil y la gestión de pacientes con autenticación segura en Firebase.</p>
-      <p><b>Tecnologías:</b> <code>Flutter</code> <code>Dart</code> <code>Firebase</code> <code>Android</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🍽️ <a href="https://github.com/Jhontabo/bitebox">BiteBox</a></h3>
-      <p align="center">
-        <a href="https://github.com/Jhontabo/bitebox"><b>📂 Repositorio en GitHub</b></a>
-      </p>
-      <p>Proyecto web para la gestión moderna de un restaurante. Incluye catálogo interactivo, flujo de selección de productos y panel de administración para agilizar los pedidos y la experiencia gastronómica digital.</p>
-      <p><b>Tecnologías:</b> <code>React</code> <code>Node.js</code> <code>Tailwind CSS</code> <code>JavaScript</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🐧 <a href="https://github.com/Jhontabo/ubuntuBspwm">BSPWM Dotfiles</a></h3>
-      <p align="center">
-        <a href="https://github.com/Jhontabo/ubuntuBspwm"><b>📂 Repositorio en GitHub</b></a>
-      </p>
-      <p>Script automatizado para distribuciones basadas en Debian que instala y configura un entorno de escritorio en mosaico minimalista con temática Pacman/arcade: BSPWM, Polybar, Picom, Kitty, Rofi, Zsh + Powerlevel10k, scripts personalizados, wallpapers y Nerd Fonts.</p>
-      <p><b>Tecnologías:</b> <code>BSPWM</code> <code>Polybar</code> <code>Zsh</code> <code>Bash</code> <code>Linux</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🧭 Trayectoria & Ruta Profesional
 
 | Período | Rol / Hito | Descripción |
