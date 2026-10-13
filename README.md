@@ -1,18 +1,19 @@
 <!-- Banner de Cabecera -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,30&height=220&section=header&text=Jhon%20Tajumbina&fontSize=48&fontAlignY=38&desc=Frontend%20%26%20Full%20Stack%20Developer%20%7C%20Estudiante%20de%20Ingenier%C3%ADa%20de%20Sistemas&descAlignY=60&descAlign=50&animation=fadeIn" width="100%" alt="Jhon Tajumbina Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,30&height=220&section=header&text=Jhon%20Tajumbina&fontSize=46&fontAlignY=38&desc=Software%20Engineer%20%7C%20Digital%20Trafficker%20Ads%20(Meta%20Ads)&descAlignY=60&descAlign=50&animation=fadeIn" width="100%" alt="Jhon Tajumbina Banner" />
 </div>
 
 <div align="center">
 
   <!-- Typing SVG animado -->
   <a href="https://github.com/Jhontabo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=38BDF8&center=true&vCenter=true&width=550&lines=Desarrollador+Frontend+%26+Full+Stack+%F0%9F%9A%80;Ingenier%C3%ADa+de+Sistemas+%40+Universidad+Mariana+%F0%9F%8E%93;Especialista+en+React%2C+Next.js+%26+TypeScript+%E2%9C%A8;Amante+de+Linux%2C+BSPWM+%26+Neovim+%F0%9F%90%A7" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=38BDF8&center=true&vCenter=true&width=550&lines=Software+Engineer+%26+Full+Stack+Developer+%F0%9F%9A%80;Digital+Trafficker+%26+Media+Buyer+(Meta+Ads)+%F0%9F%93%88;Ingeniero+de+Sistemas+%40+Universidad+Mariana+%F0%9F%8E%93;Flutter+%E2%80%A2+Laravel+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%9C%A8;Linux%2C+BSPWM+%26+Neovim+Enthusiast+%F0%9F%90%A7" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <a href="https://jhontabodev.com"><img src="https://img.shields.io/badge/Portafolio-jhontabodev.com-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" /></a>
-    <a href="https://linkedin.com/in/jhontabo"><img src="https://img.shields.io/badge/LinkedIn-Jhon%20Tajumbina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://portfolio-nine-sage-61.vercel.app/es/"><img src="https://img.shields.io/badge/Portafolio-Ver_Web-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio Web" /></a>
+    <a href="https://www.linkedin.com/in/jhon-tajumbina-8917922a3"><img src="https://img.shields.io/badge/LinkedIn-Jhon%20Tajumbina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.instagram.com/jhon_tajumbina/"><img src="https://img.shields.io/badge/Instagram-@jhon__tajumbina-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
     <a href="mailto:jhonse.tajumbina@gmail.com"><img src="https://img.shields.io/badge/Email-jhonse.tajumbina%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/Jhontabo"><img src="https://img.shields.io/badge/GitHub-@Jhontabo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
@@ -25,88 +26,101 @@
 
 ## 👨‍💻 Sobre Mí
 
-¡Hola! Soy **Jhon Tajumbina**, estudiante de **Ingeniería de Sistemas** en la Universidad Mariana (Colombia) y apasionado desarrollador web.
+¡Hola! Soy **Jhon Tajumbina**, **Ingeniero de Sistemas** de Colombia y **Media Buyer / Digital Trafficker**.
 
-- 🚀 **Especialidad Frontend:** Construyo interfaces modernas, reactivas y de alto rendimiento utilizando **React 19**, **Next.js 16**, **TypeScript** y **Tailwind CSS**, priorizando la experiencia de usuario (UX) y arquitectura de componentes limpia.
-- 🛠️ **Habilidades Full Stack:** Expando activamente mis competencias en backend desarrollando APIs REST y arquitecturas robustas con **Node.js**, **Express**, **PHP**, **Laravel** y bases de datos relacionales (**MySQL**).
-- 📱 **Desarrollo Móvil:** Experiencia creando soluciones móviles multiplataforma con **Flutter** y **Dart** para entornos de alta exigencia médica.
-- 🐧 **Entorno & Filosofía Unix:** Trabajo en un ecosistema optimizado en **Linux**, utilizando gestores de ventanas en mosaico (**BSPWM**) y flujos de trabajo ágiles en terminal con **Neovim (Lua)** y **Git**.
-- 💡 **Compromiso:** Creo firmemente en escribir código legible, documentado y escalable que aporte valor tangible a los usuarios.
+Construyo productos digitales que resuelven problemas reales: aplicaciones móviles, sitios web y sistemas a la medida, siempre con interfaces limpias, rendimiento óptimo y una experiencia de usuario fluida.
+
+Además del desarrollo de software, combino la ingeniería con el marketing digital como **Trafficker**, planificando, ejecutando y optimizando campañas publicitarias en **Meta Ads** para convertir atención en resultados medibles y rentabilidad para negocios y marcas.
 
 ---
 
-## 🛠️ Stack Tecnológico
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,astro,nodejs,express,php,laravel,mysql,flutter,linux,neovim,git,docker,figma&perline=10" alt="Tech Stack Icons" />
-</div>
-
-<br />
-
-| Área | Tecnologías & Herramientas |
-| :--- | :--- |
-| **Frontend** | React 19, Next.js 16, TypeScript, JavaScript (ES6+), Tailwind CSS v4, Framer Motion, Astro, HTML5, CSS3 |
-| **Backend & APIs** | Node.js, Express, PHP, Laravel, RESTful APIs, Autenticación JWT |
-| **Bases de Datos** | MySQL, Modelado Relacional |
-| **Móvil** | Flutter, Dart |
-| **Entorno & Herramientas** | Linux (Ubuntu / BSPWM), Neovim (Lua), Git, GitHub, Docker, Figma, Vite |
-
----
-
-## 🚀 Proyectos Destacados
+## 💼 Trabajos Seleccionados
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🍔 <a href="https://github.com/Jhontabo/restaurant">Restaurant App</a></h3>
+      <h3 align="center">🔬 <a href="https://github.com/Jhontabo/InventoryManager">InventoryManager</a></h3>
       <p align="center">
-        <a href="https://restaurant-rztc-2kk409gl8-jhon-tajumbinas-projects.vercel.app/"><b>🌐 Demo en Vivo</b></a> • 
-        <a href="https://github.com/Jhontabo/restaurant"><b>📂 Repositorio</b></a>
+        <a href="https://github.com/Jhontabo/InventoryManager"><b>📂 Repositorio en GitHub</b></a>
       </p>
-      <p>Plataforma para hamburguesería gourmet con menú interactivo y panel administrativo protegido.</p>
-      <ul>
-        <li><b>Stack:</b> Next.js 16, React 19, Tailwind CSS v4, Framer Motion, JWT.</li>
-        <li><b>Funcionalidades:</b> Catálogo dinámico, carrito en tiempo real, autenticación segura y animaciones fluidas con UI mobile-first.</li>
-      </ul>
+      <p>Sistema integral de gestión de inventarios diseñado para los laboratorios de la <b>Universidad Mariana</b>. Proporciona control eficiente de equipos, recursos, reservas y préstamos con control de acceso basado en roles (RBAC), autenticación con Google institucional y reportes detallados. <i>Proyecto de grado que representó a la universidad a nivel departamental y nacional en semilleros de investigación.</i></p>
+      <p><b>Tecnologías:</b> <code>Laravel</code> <code>Filament</code> <code>PHP</code> <code>MySQL</code> <code>Google Auth</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔬 <a href="https://github.com/Jhontabo/inventoryManager">InventoryManager</a></h3>
+      <h3 align="center">🏥 <a href="https://github.com/Jhontabo/Registro-UCI">Registro UCI</a></h3>
       <p align="center">
-        <a href="https://github.com/Jhontabo/inventoryManager"><b>📂 Repositorio</b></a>
+        <a href="https://github.com/Jhontabo/Registro-UCI"><b>📂 Repositorio en GitHub</b></a>
       </p>
-      <p>Sistema integral de gestión de inventarios y reservas para laboratorios universitarios.</p>
-      <ul>
-        <li><b>Stack:</b> Laravel, Filament, PHP, MySQL.</li>
-        <li><b>Funcionalidades:</b> Control exhaustivo de equipos y reactivos, flujo de préstamos/reservas, permisos por roles (RBAC) y módulo de reportes.</li>
-      </ul>
+      <p>Aplicación móvil en Flutter desarrollada para la Unidad de Cuidados Intensivos (U.C.I.) del <b>Hospital Departamental Universitario de Nariño</b>, enfocada principalmente en la digitalización de la sábana de enfermería UCI. Permite el registro ágil y la gestión de pacientes con autenticación segura en Firebase.</p>
+      <p><b>Tecnologías:</b> <code>Flutter</code> <code>Dart</code> <code>Firebase</code> <code>Android</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏥 <a href="https://github.com/Jhontabo/Registro-UCI">Registro-UCI</a></h3>
+      <h3 align="center">🍽️ <a href="https://github.com/Jhontabo/bitebox">BiteBox</a></h3>
       <p align="center">
-        <a href="https://github.com/Jhontabo/Registro-UCI"><b>📂 Repositorio</b></a>
+        <a href="https://github.com/Jhontabo/bitebox"><b>📂 Repositorio en GitHub</b></a>
       </p>
-      <p>Aplicación móvil desarrollada para la Unidad de Cuidados Intensivos del Hospital Departamental Universitario de Nariño.</p>
-      <ul>
-        <li><b>Stack:</b> Flutter, Dart.</li>
-        <li><b>Funcionalidades:</b> Registro y seguimiento ágil de pacientes en estado crítico, con interfaz optimizada para entornos médicos de alta exigencia.</li>
-      </ul>
+      <p>Proyecto web para la gestión moderna de un restaurante. Incluye catálogo interactivo, flujo de selección de productos y panel de administración para agilizar los pedidos y la experiencia gastronómica digital.</p>
+      <p><b>Tecnologías:</b> <code>React</code> <code>Node.js</code> <code>Tailwind CSS</code> <code>JavaScript</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🐧 <a href="https://github.com/Jhontabo/ubuntuBspwm">Dotfiles & Entorno Linux</a></h3>
+      <h3 align="center">🐧 <a href="https://github.com/Jhontabo/ubuntuBspwm">BSPWM Dotfiles</a></h3>
       <p align="center">
-        <a href="https://github.com/Jhontabo/ubuntuBspwm"><b>📂 BSPWM</b></a> • 
-        <a href="https://github.com/Jhontabo/nvim"><b>📂 Neovim</b></a>
+        <a href="https://github.com/Jhontabo/ubuntuBspwm"><b>📂 Repositorio en GitHub</b></a>
       </p>
-      <p>Entorno de desarrollo altamente personalizado y minimalista con estética Arcade/Pacman.</p>
-      <ul>
-        <li><b>Stack:</b> Bash, Lua, BSPWM, Polybar, Picom, Kitty, Neovim.</li>
-        <li><b>Funcionalidades:</b> Instalador automatizado, flujo centrado en teclado y editor Neovim configurado desde cero en Lua.</li>
-      </ul>
+      <p>Script automatizado para distribuciones basadas en Debian que instala y configura un entorno de escritorio en mosaico minimalista con temática Pacman/arcade: BSPWM, Polybar, Picom, Kitty, Rofi, Zsh + Powerlevel10k, scripts personalizados, wallpapers y Nerd Fonts.</p>
+      <p><b>Tecnologías:</b> <code>BSPWM</code> <code>Polybar</code> <code>Zsh</code> <code>Bash</code> <code>Linux</code></p>
     </td>
   </tr>
 </table>
+
+---
+
+## 🧭 Trayectoria & Ruta Profesional
+
+| Período | Rol / Hito | Descripción |
+| :--- | :--- | :--- |
+| **2021** | 🎓 **Inicio en la Universidad Mariana** | Comencé Ingeniería de Sistemas, enfocado en construir bases sólidas en desarrollo de software, arquitectura y redes. |
+| **2022 — 2024** | 💻 **Etapa Freelancer** | Desarrollo web independiente para pequeños negocios y proyectos locales que requerían presencia digital. |
+| **Feb — May 2025** | 🏥 **Prácticas en Hospital (Flutter Dev)** | Desarrollo de la app clínica de enfermería para la Unidad de Cuidados Intensivos (U.C.I.) del Hospital Departamental Universitario de Nariño. |
+| **May & Oct 2025** | 🔬 **Semilleros de Investigación I y II** | Ponencia y representación de la universidad en el Encuentro Departamental y Nacional con el proyecto *InventoryManager*. |
+| **Ago 2025 — Abr 2026** | 🏢 **Auxiliar en Cofinal** | Procesos administrativos, financieros, soporte informático interno y automatización de tareas cotidianas. |
+| **Actualidad** | 🚀 **Software Engineer & Media Buyer** | Desarrollo de producto y planificación/optimización de campañas de alto rendimiento en Meta Ads. |
+
+---
+
+## 🛠️ Dominio Técnico
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,astro,nodejs,express,php,laravel,mysql,flutter,dart,python,linux,bash,neovim,git,github,docker,aws,figma&perline=11" alt="Tech Stack Icons" />
+</div>
+
+<br />
+
+| Área | Tecnologías & Habilidades |
+| :--- | :--- |
+| **Frontend** | React, Next.js, Tailwind CSS, Astro, HTML5, CSS3, JavaScript (ES6+), TypeScript |
+| **Backend & APIs** | Laravel, Node.js, Express.js, PHP, MySQL / MariaDB, JWT, Firebase |
+| **Móvil** | Flutter, Dart, Android |
+| **Herramientas & Entorno** | Linux (Debian / Ubuntu / BSPWM), Bash, Neovim, Git, GitHub, Docker, AWS, WSL, Figma |
+| **Marketing Digital & Ads** | Meta Ads (Facebook & Instagram Ads), TikTok Ads, Google Ads, Embudos de Conversión |
+
+---
+
+## 🏆 Reconocimiento & Certificaciones
+
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1alDZj0v_P3Cu0QwKgtfmRmaqRNgcAXZ4?usp=sharing">
+    <img src="https://img.shields.io/badge/Ver_Carpeta_Completa_de_Certificaciones-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificaciones en Google Drive" />
+  </a>
+</p>
+
+- 🎓 **Fundamentos de Ingeniería de Software** — *Platzi*
+- 📊 **Algoritmos y Diagramas de Flujo** — *Platzi*
+- 🗄️ **Manejo de Datos, Estructuras y Funciones** — *Platzi*
+- 🤖 **Prompt Engineering con ChatGPT** — *Platzi*
+- 🔬 **Representación en Semilleros de Investigación** — *Encuentro Departamental y Nacional de Semilleros (RedCOLSI)*
 
 ---
 
@@ -126,20 +140,21 @@
 
 ---
 
-## 📬 Conectemos
+## 📬 Contacto
 
-¿Tienes un proyecto en mente, una oportunidad de colaboración o simplemente quieres charlar sobre tecnología, frontend o Linux? ¡Escríbeme!
+¿Tienes un proyecto en mente, buscas crear un producto digital a la medida o potenciar tus ventas con campañas de Meta Ads? ¡Hablemos!
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Enviar_Correo-jhonse.tajumbina%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonse.tajumbina@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhontabo)
-[![Portafolio](https://img.shields.io/badge/Portafolio_Web-Visitar-0070F3?style=for-the-badge&logo=safari&logoColor=white)](https://jhontabodev.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-tajumbina-8917922a3)
+[![Instagram](https://img.shields.io/badge/Instagram-Mensaje_Directo-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhon_tajumbina/)
+[![Portafolio](https://img.shields.io/badge/Portafolio_Web-Visitar-0070F3?style=for-the-badge&logo=safari&logoColor=white)](https://portfolio-nine-sage-61.vercel.app/es/)
 
 </div>
 
 <br />
 
 <div align="center">
-  <sub>⭐️ Diseñado y construido con dedicación y café ☕ por <b>Jhon Tajumbina</b></sub>
+  <sub>⭐️ Desarrollado con dedicación y café ☕ por <b>Jhon Tajumbina</b></sub>
 </div>
