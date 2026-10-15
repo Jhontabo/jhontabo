@@ -22,6 +22,7 @@ from scipy.spatial.distance import cdist
 
 ROOT = Path(__file__).resolve().parents[2]
 SOURCE_CANDIDATES = [
+    ROOT / "assets/source/cutout.png",
     ROOT / "assets/source/jhon.png",
     ROOT / "assets/source/jhon.jpg",
     ROOT / "assets/source/github-profile.jpg",
