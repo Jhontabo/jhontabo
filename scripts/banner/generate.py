@@ -26,6 +26,7 @@ SOURCE_CANDIDATES = [
     ROOT / "assets/source/jhon.png",
     ROOT / "assets/source/jhon.jpg",
     ROOT / "assets/source/github-profile.jpg",
+    ROOT / "assets/source/github-profile.png",
     ROOT / "assets/source/profile.jpg",
     ROOT / "assets/source/me.png",
 ]

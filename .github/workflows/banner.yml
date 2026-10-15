@@ -33,7 +33,8 @@ jobs:
           from PIL import Image
           src = None
           for c in ["assets/source/jhon.png", "assets/source/jhon.jpg",
-                    "assets/source/github-profile.jpg", "assets/source/profile.jpg"]:
+                    "assets/source/github-profile.jpg", "assets/source/github-profile.png",
+                    "assets/source/profile.jpg"]:
               if Path(c).exists():
                   src = c
                   break
