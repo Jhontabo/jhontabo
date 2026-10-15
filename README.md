@@ -22,8 +22,6 @@
   <a href="https://portfolio-nine-sage-61.vercel.app/es/"><img src="https://img.shields.io/badge/Portafolio-Ver_Web-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio Web" /></a>
   <a href="https://www.linkedin.com/in/jhon-tajumbina-8917922a3"><img src="https://img.shields.io/badge/LinkedIn-Jhon%20Tajumbina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/jhon_tajumbina/"><img src="https://img.shields.io/badge/Instagram-@jhon__tajumbina-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:jhonse.tajumbina@gmail.com"><img src="https://img.shields.io/badge/Email-jhonse.tajumbina%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/jhontabo"><img src="https://img.shields.io/badge/GitHub-@jhontabo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=jhontabo&label=Visitas%20al%20perfil&color=38bdf8&style=flat-square" alt="Visitas al perfil" />
