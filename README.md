@@ -40,19 +40,6 @@ Además del desarrollo de software, combino la ingeniería con el marketing digi
 
 ---
 
-## 🧭 Trayectoria & Ruta Profesional
-
-| Período | Rol / Hito | Descripción |
-| :--- | :--- | :--- |
-| **2021** | 🎓 **Inicio en la Universidad Mariana** | Comencé Ingeniería de Sistemas, enfocado en construir bases sólidas en desarrollo de software, arquitectura y redes. |
-| **2022 — 2024** | 💻 **Etapa Freelancer** | Desarrollo web independiente para pequeños negocios y proyectos locales que requerían presencia digital. |
-| **Feb — May 2025** | 🏥 **Prácticas en Hospital (Flutter Dev)** | Desarrollo de la app clínica de enfermería para la Unidad de Cuidados Intensivos (U.C.I.) del Hospital Departamental Universitario de Nariño. |
-| **May & Oct 2025** | 🔬 **Semilleros de Investigación I y II** | Ponencia y representación de la universidad en el Encuentro Departamental y Nacional con el proyecto *InventoryManager*. |
-| **Ago 2025 — Abr 2026** | 🏢 **Auxiliar en Cofinal** | Procesos administrativos, financieros, soporte informático interno y automatización de tareas cotidianas. |
-| **Actualidad** | 🚀 **Software Engineer & Media Buyer** | Desarrollo de producto y planificación/optimización de campañas de alto rendimiento en Meta Ads. |
-
----
-
 ## 🛠️ Dominio Técnico
 
 <div align="center">
