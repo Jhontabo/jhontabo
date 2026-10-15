@@ -183,7 +183,17 @@ def portrait_points(theme: str, rng: np.random.Generator) -> np.ndarray:
     # Fit any photo (ej. 2104x2048 jpg) al frame 300x340 con crop centrado.
     crop = ImageOps.fit(src.convert("RGBA"), (300, 340), Image.Resampling.LANCZOS, centering=(0.5, 0.4))
     rgb = crop.convert("RGB")
-    alpha = np.asarray(crop.getchannel("A"), dtype=np.float32) / 255.0
+    raw_alpha = crop.getchannel("A")
+    # JPGs come with a fully opaque alpha channel: treat that as "no cutout"
+    # and fall back to an elliptical avatar mask so the room background
+    # doesn't get dithered. A real cutout PNG keeps its own transparency.
+    has_cutout = raw_alpha.getextrema()[0] < 250
+    if has_cutout:
+        alpha = np.asarray(raw_alpha, dtype=np.float32) / 255.0
+    else:
+        ys_m, xs_m = np.mgrid[0:340, 0:300]
+        ellipse = ((xs_m - 150) / 138) ** 2 + ((ys_m - 168) / 158) ** 2
+        alpha = np.clip(1.0 - (ellipse - 1.0) / 0.08, 0.0, 1.0).astype(np.float32)
 
     if theme == "dark":
         lum = np.asarray(ImageOps.grayscale(rgb), dtype=np.float32)
@@ -204,8 +214,8 @@ def portrait_points(theme: str, rng: np.random.Generator) -> np.ndarray:
     prepared = prepared.filter(ImageFilter.UnsharpMask(radius=2, percent=175, threshold=1))
     bits = floyd_steinberg(np.asarray(prepared))
     active = bits if select_lit else ~bits
-    if theme == "dark":
-        active &= alpha > 0.08
+    # Always mask: real cutout PNG or elliptical avatar mask for plain JPGs.
+    active &= alpha > 0.08
 
     ys, xs = np.where(active)
     if len(xs) == 0:
