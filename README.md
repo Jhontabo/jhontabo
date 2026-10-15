@@ -1,24 +1,32 @@
-<!-- Banner de Cabecera -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,30&height=220&section=header&text=Jhon%20Tajumbina&fontSize=46&fontAlignY=38&desc=Software%20Engineer%20%7C%20Digital%20Trafficker%20Ads%20(Meta%20Ads)&descAlignY=60&descAlign=50&animation=fadeIn" width="100%" alt="Jhon Tajumbina Banner" />
-</div>
-
 <div align="center">
 
-  <!-- Typing SVG animado -->
-  <a href="https://github.com/Jhontabo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=38BDF8&center=true&vCenter=true&width=550&lines=Software+Engineer+%26+Full+Stack+Developer+%F0%9F%9A%80;Digital+Trafficker+%26+Media+Buyer+(Meta+Ads)+%F0%9F%93%88;Ingeniero+de+Sistemas+%40+Universidad+Mariana+%F0%9F%8E%93;Flutter+%E2%80%A2+Laravel+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%9C%A8;Linux%2C+BSPWM+%26+Neovim+Enthusiast+%F0%9F%90%A7" alt="Typing SVG" />
-  </a>
+<!-- BANNER - terminal profile.sh --live. Estatico por ahora (scripts/banner/static.py).
+     Para el morph animado 1-bit como emmi-lili: pon tu foto en assets/source/jhon.png
+     e instala requirements y corre: python scripts/banner/generate.py -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-dark.svg" width="100%" alt="profile.sh --live">
+</picture>
 
-  <p align="center">
-    <a href="https://portfolio-nine-sage-61.vercel.app/es/"><img src="https://img.shields.io/badge/Portafolio-Ver_Web-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio Web" /></a>
-    <a href="https://www.linkedin.com/in/jhon-tajumbina-8917922a3"><img src="https://img.shields.io/badge/LinkedIn-Jhon%20Tajumbina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://www.instagram.com/jhon_tajumbina/"><img src="https://img.shields.io/badge/Instagram-@jhon__tajumbina-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="mailto:jhonse.tajumbina@gmail.com"><img src="https://img.shields.io/badge/Email-jhonse.tajumbina%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/Jhontabo"><img src="https://img.shields.io/badge/GitHub-@Jhontabo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
+<br>
 
-  <img src="https://komarev.com/ghpvc/?username=jhontabo&label=Visitas%20al%20perfil&color=38bdf8&style=flat-square" alt="Visitas al perfil" />
+<!-- NAME / TAGLINE - animated typing -->
+<a href="https://github.com/jhontabo">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=1200&color=38BDF8&center=true&vCenter=true&width=880&lines=Jhon+Tajumbina+-+Software+Engineer+%26+Media+Buyer;Flutter+%E2%80%A2+Laravel+%E2%80%A2+React+%E2%80%A2+Next.js;Linux%2C+BSPWM+%26+Neovim+Enthusiast;Meta+Ads+para+negocios+reales" alt="typing banner">
+</a>
+
+<br>
+
+<p align="center">
+  <a href="https://portfolio-nine-sage-61.vercel.app/es/"><img src="https://img.shields.io/badge/Portafolio-Ver_Web-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio Web" /></a>
+  <a href="https://www.linkedin.com/in/jhon-tajumbina-8917922a3"><img src="https://img.shields.io/badge/LinkedIn-Jhon%20Tajumbina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/jhon_tajumbina/"><img src="https://img.shields.io/badge/Instagram-@jhon__tajumbina-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:jhonse.tajumbina@gmail.com"><img src="https://img.shields.io/badge/Email-jhonse.tajumbina%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/jhontabo"><img src="https://img.shields.io/badge/GitHub-@jhontabo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=jhontabo&label=Visitas%20al%20perfil&color=38bdf8&style=flat-square" alt="Visitas al perfil" />
 
 </div>
 
@@ -65,6 +73,83 @@ Además del desarrollo de software, combino la ingeniería con el marketing digi
 
 ---
 
+<div align="center">
+
+## signals
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<!-- Self-rated radar - edit assets/skills.json, the workflow redraws it -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+  <img src="assets/radar-dark.svg" width="400" alt="skill radar chart">
+</picture>
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<!-- Hand-authored stack radar - edit assets/langmix.json -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+  <img src="assets/radar-langs-dark.svg" width="400" alt="language radar chart">
+</picture>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## Numbers matter? ohhh yes.
+
+<!-- Generated by scripts/cards.py into this repo. Deliberately NOT
+     github-readme-stats / streak-stats: shared public instances that go down.
+     Para streak/contribuciones completas crea secrets.METRICS_TOKEN (PAT) y
+     re-corre el workflow Charts and cards. -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
+  <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
+</picture>
+
+<br>
+
+<img src="assets/metrics.languages.svg" height="165" alt="most used languages">
+
+<br><br>
+
+<table>
+<tr>
+<td align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-inventoryManager-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-inventoryManager-light.svg"><img src="assets/card-inventoryManager-dark.svg" width="420" alt="inventoryManager"></picture>
+</td>
+<td align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-Registro-UCI-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-Registro-UCI-light.svg"><img src="assets/card-Registro-UCI-dark.svg" width="420" alt="Registro-UCI"></picture>
+</td>
+</tr>
+<tr>
+<td align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-restaurant-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-restaurant-light.svg"><img src="assets/card-restaurant-dark.svg" width="420" alt="restaurant"></picture>
+</td>
+<td align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ubuntuBspwm-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-ubuntuBspwm-light.svg"><img src="assets/card-ubuntuBspwm-dark.svg" width="420" alt="ubuntuBspwm"></picture>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🏆 Reconocimiento & Certificaciones
 
 <p align="center">
@@ -78,22 +163,6 @@ Además del desarrollo de software, combino la ingeniería con el marketing digi
 - 🗄️ **Manejo de Datos, Estructuras y Funciones** — *Platzi*
 - 🤖 **Prompt Engineering con ChatGPT** — *Platzi*
 - 🔬 **Representación en Semilleros de Investigación** — *Encuentro Departamental y Nacional de Semilleros (RedCOLSI)*
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhontabo&show_icons=true&locale=es&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=818cf8&text_color=e2e8f0&bg_color=0f172a" height="165" alt="Estadísticas de GitHub" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhontabo&layout=compact&locale=es&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0f172a" height="165" alt="Lenguajes más usados" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jhontabo&theme=tokyonight&hide_border=true&locale=es&background=0f172a&ring=38bdf8&fire=f59e0b&currStreakNum=38bdf8" alt="Racha en GitHub" />
-</div>
 
 ---
 

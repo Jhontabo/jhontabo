@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order. Stars/forks/language come live from the API on every run; the description here overrides the repo's GitHub description.",
+  "projects": [
+    {
+      "repo": "inventoryManager",
+      "description": "Sistema de inventarios para laboratorios universitarios con Laravel + Filament: equipos, reservas, prestamos y reportes con roles."
+    },
+    {
+      "repo": "Registro-UCI",
+      "description": "App Flutter para la U.C.I. del Hospital Departamental de Narino: registro clinico de enfermeria."
+    },
+    {
+      "repo": "restaurant",
+      "description": "Menu interactivo + panel admin para hamburgueseria premium. Next.js 16, React 19, Tailwind v4 y JWT."
+    },
+    {
+      "repo": "ubuntuBspwm",
+      "description": "Dotfiles BSPWM arcade para Ubuntu/Debian: installer auto de BSPWM, Polybar, Picom, Kitty, Rofi y Zsh."
+    }
+  ]
+}

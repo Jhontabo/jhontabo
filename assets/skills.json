@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit these and the Charts workflow redraws the radar.",
+  "axes": [
+    { "label": "Flutter / Dart",     "value": 88 },
+    { "label": "Laravel / PHP",      "value": 85 },
+    { "label": "React / Next.js",    "value": 86 },
+    { "label": "TypeScript",         "value": 82 },
+    { "label": "Meta Ads / Media Buying", "value": 80 },
+    { "label": "Linux / Neovim",     "value": 84 },
+    { "label": "UI / Tailwind",      "value": 83 }
+  ]
+}
