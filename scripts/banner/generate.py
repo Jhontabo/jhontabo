@@ -194,6 +194,10 @@ def portrait_points(theme: str, rng: np.random.Generator) -> np.ndarray:
         ys_m, xs_m = np.mgrid[0:340, 0:300]
         ellipse = ((xs_m - 150) / 138) ** 2 + ((ys_m - 168) / 158) ** 2
         alpha = np.clip(1.0 - (ellipse - 1.0) / 0.08, 0.0, 1.0).astype(np.float32)
+        # Luma-key: fondo blanco/near-white (foto sin fondo sobre blanco)
+        # se vuelve transparente para no ditherizarlo.
+        lum_key = np.asarray(ImageOps.grayscale(rgb), dtype=np.float32)
+        alpha *= np.clip((238.0 - lum_key) / 17.0, 0.0, 1.0)
 
     if theme == "dark":
         lum = np.asarray(ImageOps.grayscale(rgb), dtype=np.float32)
