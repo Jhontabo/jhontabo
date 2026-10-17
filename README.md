@@ -88,3 +88,16 @@ Además del desarrollo de software, combino la ingeniería con el marketing digi
 </table>
 
 </div>
+
+---
+
+<div align="center">
+
+## 💜 Créditos
+
+Este README y su sistema de SVG (banner, radares, tarjetas) están basados en el excelente trabajo de
+**[emmi-lili](https://github.com/emmi-lili)** → [github.com/emmi-lili/emmi-lili](https://github.com/emmi-lili/emmi-lili).
+
+¡Gracias por la inspiración y el código abierto! 🌺
+
+</div>
