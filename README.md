@@ -24,7 +24,7 @@
   <a href="https://www.instagram.com/jhon_tajumbina/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=jhontabo&label=Visitas%20al%20perfil&color=38bdf8&style=flat-square" alt="Visitas al perfil" />
+<img src="https://hits.sh/github.com/jhontabo.svg?label=Visitas%20al%20perfil&color=38bdf8" alt="Visitas al perfil" />
 
 </div>
 
