@@ -6,11 +6,18 @@ on:
     branches: [main]
     paths:
       - "assets/source/**"
-      - "scripts/banner/**"
+      - "!assets/source/cutout.png"
+      - "scripts/banner/generate.py"
+      - "scripts/banner/static.py"
+      - "scripts/banner/requirements.txt"
       - ".github/workflows/banner.yml"
 
 permissions:
   contents: write
+
+concurrency:
+  group: banner-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   banner:
