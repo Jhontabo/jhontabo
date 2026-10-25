@@ -91,16 +91,54 @@ On the marketing side, I plan, run and optimize **Meta Ads** campaigns that turn
 </tr>
 </table>
 
-<!-- Live stats card - scripts/stats.py, refreshed weekly by the Charts workflow -->
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub in numbers
+
+<!-- Stats + languages cards and activity chart - scripts/stats.py, refreshed weekly by the Charts workflow -->
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
-  <img src="assets/stats-dark.svg" width="480" alt="GitHub stats: stars, repos, followers, contributions and streaks">
+  <img src="assets/stats-dark.svg" width="420" alt="GitHub stats: stars, repos, followers, contributions and streaks">
+</picture>
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg">
+  <img src="assets/languages-dark.svg" width="420" alt="Top languages by code size across public repositories">
+</picture>
+
+</td>
+</tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg">
+  <img src="assets/activity-dark.svg" width="100%" alt="Line chart of weekly contributions over the last year">
 </picture>
 
 <br><br>
 
-<!-- Contribution snake - Snake workflow, published to the output branch -->
+<!-- 3D calendar + snake - Contributions workflow, published to the output branch -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhontabo/jhontabo/output/contrib-3d-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhontabo/jhontabo/output/contrib-3d-light.svg">
+  <img src="https://raw.githubusercontent.com/jhontabo/jhontabo/output/contrib-3d-dark.svg" width="100%" alt="Isometric 3D contribution calendar">
+</picture>
+
+<br><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhontabo/jhontabo/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhontabo/jhontabo/output/github-snake.svg">

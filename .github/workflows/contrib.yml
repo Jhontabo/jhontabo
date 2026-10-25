@@ -1,4 +1,4 @@
-name: Snake
+name: Contributions
 
 on:
   workflow_dispatch:
@@ -7,17 +7,17 @@ on:
   push:
     branches: [main]
     paths:
-      - ".github/workflows/snake.yml"
+      - ".github/workflows/contrib.yml"
 
 permissions:
   contents: write
 
 concurrency:
-  group: snake-${{ github.ref }}
+  group: contrib-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
-  snake:
+  contrib:
     runs-on: ubuntu-latest
     steps:
       # Renders the contribution graph being eaten by a snake, light + dark
@@ -28,7 +28,19 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#38bdf8
 
-      # Published to the `output` branch so main history stays clean
+      # Isometric 3D contribution calendar (writes to ./profile-3d-contrib)
+      - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Collect 3D calendar
+        run: |
+          cp profile-3d-contrib/profile-night-view.svg   dist/contrib-3d-dark.svg
+          cp profile-3d-contrib/profile-green-animate.svg dist/contrib-3d-light.svg
+
+      # Both land on the `output` branch so main history stays clean. One job
+      # owns the branch: this action force-pushes build_dir as its whole content.
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
