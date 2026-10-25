@@ -243,7 +243,7 @@ def render_activity(weeks, total, theme):
     peak = max(vals) or 1
     # round the axis top up to a tidy step so gridlines land on whole numbers
     step = max(1, -(-peak // 4))
-    for nice in (1, 2, 5, 10, 20, 25, 50, 100, 200, 500):
+    for nice in (1, 2, 5, 10, 15, 20, 25, 30, 40, 50, 75, 100, 150, 200, 250, 500):
         if nice >= step:
             step = nice
             break
@@ -285,10 +285,11 @@ def render_activity(weeks, total, theme):
     px_, py_ = px(i), py(peak)
     out.append(f'<circle cx="{px_:.1f}" cy="{py_:.1f}" r="4.5" fill="{c["accent"]}" '
                f'stroke="{c["bg"]}" stroke-width="2"/>')
+    # sits above the dot: nothing is drawn above the peak, so it can't collide
     anchor = "end" if px_ > W - 160 else "start"
-    dx = -10 if anchor == "end" else 10
+    dx = 6 if anchor == "end" else -6
     d = weeks[i][0]
-    out.append(f'<text x="{px_ + dx:.1f}" y="{py_ + 4:.1f}" font-size="11" '
+    out.append(f'<text x="{px_ + dx:.1f}" y="{py_ - 11:.1f}" font-size="11" '
                f'text-anchor="{anchor}" fill="{c["value"]}">'
                f'Peak: {peak} · week of {MONTHS[d.month - 1]} {d.day}</text>')
     return frame(W, H, c, "".join(out), "Weekly contributions over the last year")
