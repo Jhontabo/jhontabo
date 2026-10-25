@@ -2,12 +2,14 @@ name: Charts
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * 1"   # weekly, Monday 06:00 UTC: refresh live GitHub data
   push:
     branches: [main]
     paths:
       - "assets/skills.json"
-      - "assets/langmix.json"
       - "scripts/radar.py"
+      - "scripts/stats.py"
       - ".github/workflows/radar.yml"
 
 permissions:
@@ -20,6 +22,8 @@ concurrency:
 jobs:
   radar:
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v4
 
@@ -31,14 +35,20 @@ jobs:
       - name: Skill radar
         run: python scripts/radar.py --data assets/skills.json -o assets/radar
 
-      # Hand-authored contract & language stack radar (edit assets/langmix.json)
+      # Live language mix from public repos
       - name: Language radar
-        run: python scripts/radar.py --data assets/langmix.json -o assets/radar-langs --values
+        run: >
+          python scripts/radar.py --github jhontabo -o assets/radar-langs --values
+          --exclude html,css,scss,shell,makefile,dockerfile,batchfile,blade
+
+      # Live stats card (stars, repos, followers, contributions, streaks)
+      - name: Stats card
+        run: python scripts/stats.py --user jhontabo --out assets
 
       - name: Commit if changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/radar-*.svg
+          git add assets/radar-*.svg assets/stats-*.svg
           git diff --staged --quiet || git commit -m "chore: refresh charts"
           git push
